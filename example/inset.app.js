@@ -1,4 +1,4 @@
 module.exports = {
-  frameworkname: "barium"
+  frameworkname: "barium",
   say: console.log
 }
