@@ -1,7 +1,8 @@
 {
   "type": "web",
   "frameworks": {
-    "express": "npm"
+    "express": "server",
+    "three": "graphics"
   },
   "message": "Example barium app 😀"
 }
