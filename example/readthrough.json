@@ -1,0 +1,6 @@
+{
+  "type": "web",
+  "frameworks": {
+    "express": "npm"
+  }
+}
