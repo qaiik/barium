@@ -4,5 +4,6 @@
     "express": "server",
     "three": "graphics"
   },
-  "message": "Example barium app 😀"
+  "title": "Barium"
+  "description": "Example barium app 😀"
 }
