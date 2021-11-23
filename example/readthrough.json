@@ -1,9 +1,9 @@
 {
-  "type": "web",
-  "frameworks": {
+  "type": "webapp",
+  "plugins": {
     "express": "server",
     "three": "graphics"
   },
-  "title": "Barium"
+  "title": "Barium",
   "description": "Example barium app 😀"
 }
